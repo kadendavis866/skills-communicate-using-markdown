@@ -13,3 +13,8 @@ public static void main(String[] args){
     System.out.println("Hello world!");
 }
 ```
+
+To do:
+- [ ] Item1
+- [x] Item2
+- [ ] Item3
